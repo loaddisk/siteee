@@ -1,0 +1,14 @@
+- [Biocomputers](https://en.wikipedia.org/wiki/Biological_computing)
+	- [Mushrooms](https://www.popsci.com/technology/unconventional-computing-lab-mushroom/)
+- [DNA Storage](https://www.theguardian.com/science/2017/jul/12/scientists-pioneer-a-new-revolution-in-biology-by-embeding-film-on-dna)
+- Photonics & [Optical Computing](https://en.wikipedia.org/wiki/Optical_computing) - Computing with light
+	- [Neuromorphic Photonics Circuits](https://pmc.ncbi.nlm.nih.gov/articles/PMC10745993)
+	- [Photonic Neuromorphic Architecture](https://www.nature.com/articles/s41377-024-01395-4)
+- Analogue
+	- [The Unbelievable Zombie Comeback of Analog Computing](https://www.wired.com/story/unbelievable-zombie-comeback-analog-computing/)
+	- Veritasium: [Future Computers Will Be Radically Different](https://www.youtube.com/watch?v=GVsUOuSjvcg)
+	- IBM: [An analog-AI chip for energy-efficient speech recognition and transcription](https://www.nature.com/articles/s41586-023-06337-5)
+- Alternatives to Sillicon
+	- Organic Semiconductors: [Carbon Nanotubes](https://en.wikipedia.org/wiki/Carbon_nanotube_computer) // [Carbon nanotube field-effect transistor](https://en.wikipedia.org/wiki/Carbon_nanotube_field-effect_transistor)
+	- [Two-dimensional semiconductors](https://en.wikipedia.org/wiki/Two-dimensional_semiconductor)
+	-
