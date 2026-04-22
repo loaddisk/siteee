@@ -1,0 +1,62 @@
+---
+title: MBTA Yearly Revenue
+license: CC BY-SA 4.0
+---
+year,Revenue from fares,Revenue
+1991,156425035.8,721464870.8
+1992,167054656,774136042
+1993,175970945,793401487
+1994,184921509,828174260
+1995,190113920,784502119
+1996,191814620.5,807464445.8
+1997,197735098.8,851940885.4
+1998,214324485.3,919491227.3
+1999,222434160.5,1004833037
+2000,230974595.2,1017449489
+2001,280982907,1081770908
+2002,283287567,1143348909
+2003,274205790,1153490436
+2004,295496104.1,1184163607
+2005,319271166.2,1226081013
+2006,333095971,1267038333
+2007,386487953,1339179419
+2008,440961963,1407753918
+2009,448751949,1446464944
+2010,439322438,1612672394
+2011,448813678,1613182476
+2012,465755373.2,1657345676
+2013,564560142.1,1794340699
+2014,569188335,1866555455
+2015,597647752,1943092703
+2016,283287567,1143348909
+2017,659200000,1941500000
+2018,666950000,1945100000
+2019,671700000,2169700000
+2020,545700000,2271100000
+2021,167100000,2642100000
+2022,322300000,3024000000
+2023,376400000,2335900000
+2024,418500000,2648300000
+2025,403000000,2714200000
+
+---
+
+## 🔗 Sources
+
+- https://cdn.mbta.com/sites/default/files/2017-10/fy15-sore-history-budget-1991-2015.pdf
+- https://cdn.mbta.com/sites/default/files/2017-10/fy16-sore-history-budget-1991-2016.pdf
+- https://cdn.mbta.com/sites/default/files/financials/budgets/fy17-itemized-budget.pdf
+- https://cdn.mbta.com/sites/default/files/financials/budgets/fy18-itemized-budget.pdf
+- https://cdn.mbta.com/sites/default/files/financials/budgets/fy19-itemized-budget.pdf
+- https://cdn.mbta.com/sites/default/files/fmcb-meeting-docs/2019/04-april/2018-04-08-fmcb-K-fy20-final-itemized-operating-budget-support-accessible.pdf
+- https://cdn.mbta.com/sites/default/files/2022-01/2022-01-13-itemized-budget-fy2021.pdf
+- https://cdn.mbta.com/sites/default/files/2022-01/2022-01-13-itemized-budget-fy2022.pdf
+- https://cdn.mbta.com/sites/default/files/2022-06/FY23%20Itemized%20Budget.pdf
+- https://cdn.mbta.com/sites/default/files/2023-06/FY24%20Itemized%20Budget.pdf
+- https://cdn.mbta.com/sites/default/files/2024-06/2024-06-FY25-MBTA-Budget.pdf
+
+# 📝 Notes
+
+The data from FY24 and FY25 is data from MBTA's own projections, which is known to miss. e.g. in 2023 they recieved 474.3M in fare revenue, but recieved 376.4M.
+
+---

@@ -1,0 +1,32 @@
+---
+title: 2019 Transit Costs
+description: The cost and ridership of various transit agencies pre-covid
+is: weighing costs
+---
+Agency,Funding (M),Ridership (M),Dollars per rider,Source
+MTA,16725,2562.059,6.527952713,[MTA 2019 Adopted Budget](https://new.mta.info/sites/default/files/2019-03/MTA-2019-Adopted-Budget-February-Financial-Plan_2019-2022.pdf)
+MBTA,2033.4,453.6,4.482804233,"[Forging Ahead](https://www.mbta.com/forging-ahead), [FY20 Final Budget](https://cdn.mbta.com/sites/default/files/fmcb-meeting-docs/2019/04-april/2018-04-08-fmcb-K-fy20-final-itemized-operating-budget-support-accessible.pdf)"
+BART,1915.4,119.7,16.00167084,[FY2019 Budget Pamphlet](https://www.bart.gov/sites/default/files/docs/FY19%20Budget%20Pamphlet%20FINAL.pdf)
+CTA,1552.1,455.7,3.405968839,
+WMATA,3100,182.2,17.01427003,
+PATH,8500,102.24,83.13771518,[2019 Budget Book](https://www.panynj.gov/content/dam/corporate/financial-information-pdfs/2019-Budget-Book_DSCZ1hW1.pdf)
+SEPTA,749.62,292.857227,2.559677313,"[SEPTA Board Approves Fiscal Year 2019 Operating & Capital Budgets](https://wwww.septa.org/news/septa-board-approves-fiscal-year-2019-operating-capital-budgets/), [Operating Facts FY2019](https://planning.septa.org/wp-content/uploads/2021/02/Operating-Facts-FY2019.pdf)"
+MARTA,517.43761,125,4.13950088,"[MARTOC REPORT FY2019](https://www.itsmarta.com/uploadedfiles/More/About_MARTA/2019%20MARTOC%20FINAL%20web-compressed.pdf), https://atltransit.ga.gov/wp-content/uploads/2019/12/ATL_ARA-Final-11-25-19.pdf"
+LA METRO,6610.7,220.32,30.00499274,[L.A. METRO SURPASSES 900K DAILY RIDERS IN SEPTEMBER](https://www.metro.net/about/l-a-metro-surpasses-900k-daily-riders-in-september-achieves-highest-daily-ridership-since-pandemic/)
+Miami-Dade,938,89.06,10.532596,https://www.miamidade.gov/budget/library/fy2019-20/adopted/adopted-budget.pdf
+PATCO,58.96,11,5.36,https://www.drpa.org/pdfs/Budget_Operating_PATCO_2019.pdf
+Staten Island,90.919,3.7577,24.19538548,https://new.mta.info/document/111831
+PVTA,54.083176,10.094,5.357952843,https://www.pvta.com/documents/annualReports/FY%202019%20Annual%20Report.pdf
+MTS,274,87,3.147747126,[FY19 Budget Book](https://www.sdmts.com/sites/default/files/attachments/fy19_budget_book_0.pdf)
+LINK,2424.414,52,46.62334615,
+MAX,708.313,38.8,18.25548969,https://trimet.org/budget/pdf/2019-adopted-budget.pdf
+DART,1392.75,69,20.18478261,
+---
+
+# 📝 Notes
+
+I have not been able to find a premade, aggregate statistic that represents this data. This is by no means done, but is a sufficent sample.
+
+Please note this data is highly flawed. I offer no quality guarentees.
+
+---
