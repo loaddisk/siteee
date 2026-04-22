@@ -1,9 +1,9 @@
 ---
 notitle: true
-title: Evan Boehs
+title: Mia R.
 description: Hello. It's me.
 headInject: |
-    <link rel="alternate" type="application/atom+xml" title="Evan Boehs in the blog" href="/in/blog.xml" />
+    <link rel="alternate" type="application/atom+xml" title="Mia R in the blog" href="/in/blog.xml" />
 ---
 
 {{ set hello = deets.greatings |> random }}
@@ -12,6 +12,4 @@ headInject: |
 
 <sup id="needslang">{{hello.language}}</sup> {style="margin-block-start: 0"}
 
-Most days I'm busy crafting silly things, but on the good ones I'm out skiing.
-
-I'm interested in empowering individuals through technology, and understanding the intricate magic that makes our world go round.
+Welcome to my spot on the web for a collection of my musings, writings, projects and anything else I want to put out there. 
