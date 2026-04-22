@@ -12,7 +12,7 @@ function backlinksApi(data, _notes = null) {
 	const currentFileSlug = slugshive(
 		data.page.url
 			? data.page.url.replace("/node/", "").replace(".html", "")
-			: data.page.filePathStem.replace("/pages/garden/node/", ""),
+			: data.page.filePathStem.replace("/pages/garden/node-content/", ""),
 	);
 
 	let backlinks = [];
@@ -31,7 +31,7 @@ function backlinksApi(data, _notes = null) {
 		const noteAsLink = slugshive(
 			otherNote.data.page.url
 				? data.page.url.replace("/node/", "").replace(".html", "")
-				: otherNote.data.page.filePathStem.replace("/pages/garden/node/", ""),
+				: otherNote.data.page.filePathStem.replace("/pages/garden/node-content/", ""),
 		);
 
 		data.internal.exists?.add(noteAsLink);
@@ -86,11 +86,13 @@ export default {
 	structuredData: {
 		type: "BlogPosting",
 	},
-	permalink: (data) => {
-		return (
-			slugify(data.page.filePathStem.replace("/pages/garden/", "/")) + ".html"
-		);
-	},
+permalink: (data) => {
+	return (
+		slugify(
+			data.page.filePathStem.replace("/pages/garden/node-content/", "/node/"),
+		) + ".html"
+	);
+},
 	eleventyComputed: {
 		backlinks: (data) => {
 			return backlinksApi(data)[0];
