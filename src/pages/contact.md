@@ -6,7 +6,7 @@ headInject: |
 ---
 
 -   Shoot me an **email**: <code>⟨{{ 'miarworkandprojects@gmail.com' |> rails(6) }}⟩</code>
--   Gaze at **blue skies**: <code>⟨[`richmondo64.bsky.social`](https://bsky.app/profile/did:plc:7u5tor5fp3ai4jwvea6t6mjd)⟩</code>
+-   Gaze at **blue skies**: <code>⟨[`richmondo64.bsky.social`](https://bsky.app/profile/richmondo64.bsky.social)⟩</code>
 
 <noscript>
 
