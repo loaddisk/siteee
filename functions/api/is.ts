@@ -44,7 +44,7 @@ export const is = [
 	"flying too close to the sun",
 	"tempting fate",
 	"pushing luck",
-	"living dangerously",
+	"living",
 	"shooting at the stars",
 	"wishing on a star",
 	"finally free",
