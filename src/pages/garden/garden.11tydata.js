@@ -12,7 +12,7 @@ function backlinksApi(data, _notes = null) {
 	const currentFileSlug = slugshive(
 		data.page.url
 			? data.page.url.replace("/node/", "").replace(".html", "")
-			: data.page.filePathStem.replace("/pages/garden/node-content/", ""),
+			: data.page.filePathStem.replace("/pages/garden/node/", ""),
 	);
 
 	let backlinks = [];
@@ -31,7 +31,7 @@ function backlinksApi(data, _notes = null) {
 		const noteAsLink = slugshive(
 			otherNote.data.page.url
 				? data.page.url.replace("/node/", "").replace(".html", "")
-				: otherNote.data.page.filePathStem.replace("/pages/garden/node-content/", ""),
+				: otherNote.data.page.filePathStem.replace("/pages/garden/node/", ""),
 		);
 
 		data.internal.exists?.add(noteAsLink);
@@ -89,7 +89,7 @@ export default {
 permalink: (data) => {
 	return (
 		slugify(
-			data.page.filePathStem.replace("/pages/garden/node-content/", "/node/"),
+			data.page.filePathStem.replace("/pages/garden/node/", "/node/"),
 		) + ".html"
 	);
 },
