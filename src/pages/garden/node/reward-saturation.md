@@ -1,6 +1,9 @@
 ## Overnutrition & Malnourishment (reward saturation) ##
+---
 in: garden
+---
 20/04/2026
+
 
 An integral part of what drives purpose and meaning is to be rewarded for our diligent efforts; a book newly bought, food taken for pleasure, the latest pair of shoes, the earliest flight to Spain.
 
