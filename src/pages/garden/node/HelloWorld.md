@@ -1,6 +1,6 @@
 ---
 title: Hello World
-date: 2026-23-04
+date: 23-04-2026
 in: blog
 state: evergreen 
 is: waving
