@@ -13,23 +13,23 @@ So for an introduction! My name is Mia :]
 
 Some things I like:
 
-Music (creating and listening)
-Video Games
-Philosophy
-Family and friends
-Bad jokes
-Nature
-Space & Stars
-Reading
-My mama's cooking 
+- Music (creating and listening)
+- Video Games
+- Philosophy
+- Family and friends
+- Bad jokes
+- Nature
+- Space & Stars
+- Reading
+- My mama's cooking 
 
 ## My proud moments! ##
 
-Made a song I’m truly proud of
-Buying my first pair of shoes with my own money
-Being brave enough to speak and finding my soulmate at 17
-Graduating college
-My constant and continuous DIY on my character and ability to have an open mind to new ideas - I’m proud of what I’ve achieved so far. 
+- Made a song I’m truly proud of
+- Buying my first pair of shoes with my own money
+- Being brave enough to speak and finding my soulmate at 17
+- Graduating college
+- My constant and continuous DIY on my character and ability to have an open mind to new ideas - I’m proud of what I’ve achieved so far. 
 
 ## Why? ##
 
