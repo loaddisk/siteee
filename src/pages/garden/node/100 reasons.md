@@ -1,9 +1,7 @@
 ---
 tags:
-- repost
 - love
 ---
-> [[PenPen]]'s Note: Like most [[repost]]'s, There is some value added here. Evan modified this list
 
 Reasons why you should stay alive.
 1. We would miss you.
