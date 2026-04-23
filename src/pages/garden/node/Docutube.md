@@ -1,3 +1,0 @@
-- [I promise this story about fonts is interesting](https://www.youtube.com/watch?v=WVfRxFwVHQc) ([struthless](https://www.youtube.com/@struthless), 800k)
-- [The Bogdanoffs: The Trolls who shook Physics](https://www.youtube.com/watch?v=2O1QA1VoRMM) ([BobbyBroccoli](https://www.youtube.com/@BobbyBroccoli), 257k)
-- https://www.youtube.com/watch?v=gDfNRWsMRsU
