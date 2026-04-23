@@ -6,7 +6,7 @@ Yet herein lies the fault: we do not know how to manage such reward.
 
 For if you are continually rewarding yourself extravagantly and gratuitously for a null or void purpose, the reward itself ceases to be a reward. It becomes a habit rather than intention and its absence starts to become uncomfortable and unfamiliar. What was once perceived as a reward is soon demanded as a right. And when it is withheld, the mind, untrained and indulgent, suffers as though it has been deprived of something owed to it, rather than something merely enjoyed. We start to slowly resemble those who, having drunk too often, tremble when the cup is removed.
 
-Sidenote: When it comes to overnutrition, I often refer to Diogenes’ bowl story. 
+> Sidenote: When it comes to overnutrition, I often refer to Diogenes’ bowl story. 
 
 This also goes for the latter. If you are constantly depriving and withholding yourself of all consolation, all reward, that too, is dangerous. The mind drained of all of its many colours - fatigued, feeble, weak and collapsible. And the spirit? completely brittle.
 
