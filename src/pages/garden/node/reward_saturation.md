@@ -1,3 +1,5 @@
+## Overnutrition & Malnourishment ##
+
 An integral part of what drives purpose and meaning is to be rewarded for our diligent efforts; a book newly bought, food taken for pleasure, the latest pair of shoes, the earliest flight to Spain.
 
 Yet herein lies the fault: we do not know how to manage such reward.
@@ -9,7 +11,7 @@ Sidenote: When it comes to overnutrition, I often refer to Diogenes’ bowl stor
 This also goes for the latter. If you are constantly depriving and withholding yourself of all consolation, all reward, that too, is dangerous. The mind drained of all of its many colours - fatigued, feeble, weak and collapsible. And the spirit? completely brittle.
 
 And in both, the mind begins to curate many questions that begin to circle around the purpose of our work, of our time and of our life. When reward is either unearned indulgence or unbroken absence, purpose itself becomes uncertain.
-
+po 
 I like to imagine that it’s like a budding flower. A flower that is overwatered rots in excess - and - a flower that is deprived of water withers away, and as a result, both collapse. 
 
 There needs to be a fine balance between the two. And the evergrowing knowledge of how much water a flower really needs and when to water it is the key. And I personally believe, anyone can create this understanding, no matter what position they may find themselves in. 
