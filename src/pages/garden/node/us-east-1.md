@@ -1,5 +1,5 @@
 ---
-title: "US-EAST-1: All for one, one for all"
+title: "US-EAST-1: All for one"
 date: 2025-10-22
 is: "swordfighting"
 in: blog
