@@ -35,7 +35,8 @@ Some things I like:
 
 In the vast world of social media - full of comparisons, negativity and a constant stream of endless dopamine, I wanted something different - a space that feels calmer and more intentional. Somewhere that was my own.
 
-So I created this website in hopes of building exactly that. I don’t know exactly what this will become yet and I think that’s part of the point.
+So I created this website in hopes of building exactly that. I don’t know exactly what this will become yet and I think that’s part of the point. 
+
 Either way, I’m glad you’re here.
 
 And if you’ve found your way to this space, I hope it feels a little like a quiet corner for you too.
