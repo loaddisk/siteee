@@ -1,7 +1,5 @@
 ## Overnutrition & Malnourishment (reward saturation) ##
 ---
-in: garden
----
 20/04/2026
 
 
