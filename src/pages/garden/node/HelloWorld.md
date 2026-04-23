@@ -3,7 +3,7 @@ title: Hello World
 date: 2026-23-04
 in: blog
 state: evergreen
-is: coding
+is: waving
 ---
 
 Welcome to my spot on the web for a collection of my musings, writings, projects and anything else I want to put out there. 
