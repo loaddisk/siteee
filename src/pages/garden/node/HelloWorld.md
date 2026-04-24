@@ -44,4 +44,5 @@ And if you’ve found your way to this space, I hope it feels a little like a qu
 ## For me ##
 
 That being said, I do want to note that when I write, write primarily for myself, especially if you traverse off the beaten path (that’s nodes in the blog).
-I may not always try to make everything perfectly understandable and most of what you find here will simply be my perspective on things (unless quoted or aired otherwise). Thank you for reading!
+
+I may not always try to make everything perfectly understandable and most of what you find here will simply be my perspective on things (unless quoted or highlighted otherwise). Thank you for reading!
