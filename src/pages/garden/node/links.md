@@ -1,5 +1,8 @@
 ## Links ##
 
+A little link dump of some things that mean a lot to me! I will be continoudoy adding to this :> 
+
+
 Meaningful:
 
 Super Mario Galaxy Final Cutscene: [[https://youtu.be/cRSmyTlg5UQ?si=5B5cIqt4WtKxG8AI]]
