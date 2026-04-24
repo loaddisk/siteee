@@ -1,3 +1,8 @@
+---
+tags:
+- thoughts
+---
+
 ## absence's shape ##
 22/04/2026
 
