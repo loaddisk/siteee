@@ -17,3 +17,5 @@ Pretty Cool Stuff(s):
 Virtual Barber Shop [8D] [[https://youtu.be/IUDTlvagjJA?si=M_ypat5jLOITYelU]]
 
 The Tucker Zone [https://youtu.be/3txhT2ncNOU?si=VHA6l42j-3WpPi7P]
+
+A conversation with my 12 year old self [https://youtu.be/XFGAQrEUaeU?si=62AL5iRetmiYw7m_]
