@@ -5,6 +5,8 @@ in: blog
 state: evergreen 
 is: thinking
 description: Not Clickbait
+tags:
+- thoughts
 ---
 
 > If a thief could only take from you what you failed to notice, how much would you be willing to lose?
