@@ -15,7 +15,7 @@ This loss is rarely dramatic. It does not come from missing a singular, defining
 
 And more often than not, we surrender it willingly.
 
-- To trivialities - To idle consumption - To ceaseless distraction
+- To trivialities  - To idle consumption  - To ceaseless distraction 
 
 We call this “‘rest”, “‘relaxation” even, but true rest restores, while this - bears no trace. Nothing is gained nor is anything meaningful retained. Such time is not merely spent but erased. For what is not attended to is not truly lived.
 
