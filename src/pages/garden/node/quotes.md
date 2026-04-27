@@ -12,6 +12,8 @@ Some Quotes that I like found from books, around the web and some of my own too 
 
 > "Amor Fati"
 
+> "You  may retort: “But he was a highway robber; he killed a man!” And what of it? Granted that, as a murderer, he deserved this punishment, what crime have you committed, poor fellow, that you should deserve to sit and see this show?" - Seneca
+
 > "The whole future lies in uncertainty: live immediately" - Seneca
 
 > "Would being right matter if tomorrow never arrived?"
