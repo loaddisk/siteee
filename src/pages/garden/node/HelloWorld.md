@@ -27,7 +27,7 @@ Some things I like:
 
 - Made a song I’m truly proud of
 - Buying my first pair of shoes with my own money
-- Being brave enough to speak and finding my soulmate at 17
+- Being brave enough to speak and finding my soulmate
 - Graduating college
 - My constant and continuous DIY on my character and ability to have an open mind to new ideas - I’m proud of what I’ve achieved so far. 
 
