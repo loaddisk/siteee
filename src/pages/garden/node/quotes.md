@@ -23,3 +23,5 @@ Some Quotes that I like found from books, around the web and some of my own too 
 > "The soul becomes dyed with the color of its thoughts" - Marcus Aurelius
 
 > "Don't expect special consideration for doing the right thing"
+
+> "It ain't about how hard you hit. It's about how hard you can get hit and keep moving forward. How much you can take and keep moving forward. That's how winning is done!" - Rocky Balboa
