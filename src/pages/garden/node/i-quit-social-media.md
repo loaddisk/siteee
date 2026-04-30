@@ -1,10 +1,13 @@
-in: 
-- drafts
-title: ## I quit Social Media ##
-desc: what?
-
-I quit social media
-(What?)
+---
+title: I deleted Social Media
+date: 2026-04-30
+in: drafts
+state: evergreen 
+is: waving
+description: What?
+tags: 
+- thoughts
+---
 
 Yes, I called it quits. I decided wasting my time on trivial matters while not putting my growth first was already a mistake as it was. I deleted all of it - only leaving my messaging apps and the likes of YouTube (for which I vowed not to touch “shorts” and choose to search for what it is I wanted instead). Creating purpose in what I did, creating intention. 
 
