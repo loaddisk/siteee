@@ -1,7 +1,7 @@
 ---
 title: I Deleted Social Media
 date: 2026-04-30
-in: drafts
+in: blog (draft)
 state: evergreen 
 is: waving
 description: What?
