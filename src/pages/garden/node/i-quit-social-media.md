@@ -1,5 +1,5 @@
 ---
-title: I deleted Social Media
+title: I Deleted Social Media
 date: 2026-04-30
 in: drafts
 state: evergreen 
