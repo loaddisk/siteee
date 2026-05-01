@@ -20,6 +20,7 @@ Nor was this my only reason. I came to see that the corruption of social media d
 What do you think I mean? I mean that I come home more greedy, more ambitious, more voluptuous, and even more cruel and inhuman,—because I have been among human beings. By chance I attended a mid-day exhibition, expecting some fun, wit, and relaxation,—an exhibition at which men’s eyes have respite from the slaughter of their fellow-men. But it was quite the reverse. The previous combats were the essence of compassion; but now all the trifling is put aside and it is pure murder”
 
 On these platforms, we present not our lives, but a pleasing imitation of them. Everything is arranged to appear perfect. At the same time, we turn against those who fall outside this illusion - mocking them, collecting their faults for display, gathering crowds to laugh at what is merely human.
+
 And what if it were you, reader? What if your worst moment were exposed to such a crowd? You would not call it entertainment then.
 
 Yet out of idleness and vanity, we persuade ourselves that we are better than those we ridicule. We seek out drama, reactions - anything that might distract us from ourselves. This is not only foolish; it is a misuse of the mind. Time, which should be spent improving one’s character, is instead wasted in judging those who have done us no harm.
