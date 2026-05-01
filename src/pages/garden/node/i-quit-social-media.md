@@ -18,9 +18,11 @@ Nor was this my only reason. I came to see that the corruption of social media d
 > Seneca, Letter 7: “I shall admit my own weakness, at any rate; for I never bring back home the same character that I took abroad with me. Something of that which I have forced to be calm within me is disturbed; some of the foes that I have routed return again. Just as the sick man, who has been weak for a long time, is in such a condition that he cannot be taken out of ​the house without suffering a relapse, so we ourselves are affected when our souls are recovering from a lingering disease. 
 …
 What do you think I mean? I mean that I come home more greedy, more ambitious, more voluptuous, and even more cruel and inhuman,—because I have been among human beings. By chance I attended a mid-day exhibition, expecting some fun, wit, and relaxation,—an exhibition at which men’s eyes have respite from the slaughter of their fellow-men. But it was quite the reverse. The previous combats were the essence of compassion; but now all the trifling is put aside and it is pure murder”
+
 On these platforms, we present not our lives, but a pleasing imitation of them. Everything is arranged to appear perfect. At the same time, we turn against those who fall outside this illusion - mocking them, collecting their faults for display, gathering crowds to laugh at what is merely human.
 And what if it were you, reader? What if your worst moment were exposed to such a crowd? You would not call it entertainment then.
 Yet out of idleness and vanity, we persuade ourselves that we are better than those we ridicule. We seek out drama, reactions - anything that might distract us from ourselves. This is not only foolish; it is a misuse of the mind. Time, which should be spent improving one’s character, is instead wasted in judging those who have done us no harm.
+
 > Seneca, Letter 7: You ​may retort: “But he was a highway robber; he killed a man!” And what of it? Granted that, as a murderer, he deserved this punishment, what crime have you committed, poor fellow, that you should deserve to sit and see this show?”
 
 Two days later, I expected resistance, the discomfort of habit broken. Instead, I found relief. It seemed as though I had gained time, though in truth it had always been mine. I had simply ceased to squander it.
