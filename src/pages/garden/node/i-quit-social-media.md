@@ -3,7 +3,7 @@ title: I Deleted Social Media
 date: 2026-04-30
 in: blog
 state: evergreen 
-is: waving
+is: hopeful
 description: What?
 tags: 
 - thoughts
