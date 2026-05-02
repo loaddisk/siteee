@@ -33,5 +33,3 @@ Two days later, I expected resistance, the discomfort of habit broken. Instead, 
 In this, the difference between use and misuse became clearer to me. 
 
 Social media offers a constant stream, immediate and effortless, requiring nothing but attention; yet it leaves behind a kind of fatigue, as though one had eaten without being nourished. By contrast, the deliberate consumption of a film, a book, or even a single well-chosen video demands more at the outset, but returns something of substance. 
-
-The one scatters the mind across a thousand trivial impressions; the other gathers it, directs it and leaves it more settled than before. What is easily taken in is seldom retained; what is chosen with care has a way of remaining and of shaping the one who receives it. 
