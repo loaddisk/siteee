@@ -2,9 +2,9 @@ Some music I've made over the past while :)
 
 Right Answers (Demo): 
 
-! [[Comfort.wav]]
+![[Comfort.wav]]
 
-! [[jam.wav]]
+![[jam.wav]]
 
-! [[memory of you.wav]]
+![[memory of you.wav]]
 
