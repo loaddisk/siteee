@@ -1,8 +1,8 @@
 ---
 title: I Deleted Social Media
 date: 2026-04-30
-in: blog
-state: evergreen 
+in: garden
+state: ugh 
 is: hopeful
 description: What?
 tags: 
