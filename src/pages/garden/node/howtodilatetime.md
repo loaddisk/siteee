@@ -1,7 +1,7 @@
 ---
 title: How To Dilate Time And Live A Longer Life
 date: 2026-04-25
-in: blog
+in: thoughts
 state: evergreen 
 is: thinking
 description: Not Clickbait
