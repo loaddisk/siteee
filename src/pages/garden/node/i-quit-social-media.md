@@ -1,7 +1,7 @@
 ---
 title: I Deleted Social Media
 date: 2026-04-30
-in: garden
+in: thoughts
 state: ugh 
 is: hopeful
 description: What?
