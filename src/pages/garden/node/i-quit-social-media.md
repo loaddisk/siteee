@@ -9,6 +9,8 @@ tags:
 - thoughts
 ---
 
+![[AF9A1B6B-E531-4ABE-84BA-C53B02EC46F9.jpeg]]
+
 On a random Wednesday, I decided to delete social media. I judged it a mistake to spend my time on trivial matters while neglecting my own growth. So I removed it all - Instagram, Twitter, TikTok, Facebook - leaving only my messaging apps and the likes of YouTube (which I resolved to use with restraint, avoiding “shorts” and seeking only what I had chosen to watch). I wished to bring purpose and intention to my actions. (As well as goodreads and letterboxd for general tracking, reviewing and discovering.)
 
 In this, I did not renounce entertainment altogether. There could still be movies, videos, and the like - but they would be chosen, not imposed. I refused to live as one enslaved to endless consumption, drawn not by desire but by boredom.
