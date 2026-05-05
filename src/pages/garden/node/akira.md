@@ -12,6 +12,11 @@ After a 2 hour drive, I was lucky enough to see Akira, an all time-favourite of 
 
 With a reclining chair, a couple of hotdogs and a bucket of popcorn, safe to say, the experience was amazing. 
 
-So, Akira, why is it so good?
+So I'd thought I'd create a review page for the many movies I watch :>
 
 > Hint, hint, spoilers ahead
+
+Akira
+Rating 5/5
+
+Akira is...
