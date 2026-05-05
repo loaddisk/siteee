@@ -16,7 +16,8 @@ So I'd thought I'd create a review page for the many movies I watch :>
 
 > Hint, hint, spoilers ahead
 
-Akira
-Rating 5/5
+Akira (1988)
+Cheese Rating 5/5
+Quality and More Quality
 
-Akira is...
+Akira is a high-minded masterpiece, now lovingly and faithfully remastered in 4K. And if you have seen it, the 4K is stunning. A
