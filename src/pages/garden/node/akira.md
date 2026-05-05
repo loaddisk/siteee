@@ -16,7 +16,7 @@ So I'd thought I'd create a review page for the many movies I watch :>
 
 > Hint, hint, spoilers ahead
 
-Akira (1988)
+## Akira (1988) ##
 Cheese Rating 5/5
 Quality and More Quality
 
