@@ -6,7 +6,7 @@ is: waving
 description: Good for health, bad for education 
 ---
 
-I was lucky enough to see Akira, an all time-favourite of mine in the cinemas, today. 
+After a 2 hour drive, I was lucky enough to see Akira, an all time-favourite of mine in the cinemas today. 
 
 ![[IMG_4325.jpeg]]
 
