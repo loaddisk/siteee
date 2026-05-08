@@ -1,5 +1,5 @@
 ---
-title: Corbin/Spooky Black
+title: Corbin (Spooky Black)
 date: 2025-10-05
 in: concerts 
 is: head-banging
