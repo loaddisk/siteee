@@ -6,3 +6,4 @@ is: head-banging
 description: [05/10/2025]
 ---
 
+Still in draft stage, will post images soon :]
