@@ -32,17 +32,21 @@
             "icon": "🗞️",
             "description": "A fleshed out story, one you just might want to read."
         },
-        "links": {
-            "icon": "🔗",
-            "description": "Things I've found in my crusades around the web, and occasionally my thoughts on them."
+        "concerts": {
+            "icon": "🎸",
+            "description": "Photos and description of the concerts I've been too!!"
         },
         "garden": {
             "icon": "🪴",
             "description": "A network of color and character, one node alone is nothing, but together beautiful."
+                    },
+        "drafts": {
+            "icon": "📝",
+            "description": "To be finished or to not be finished?"
         },
-        "data": {
-            "icon": "📊",
-            "description": "Open source data collected for various nodes"
+        "thoughts": {
+            "icon": "📓",
+            "description": "Some thoughts I have about X, Y and Z"
         }
     }
 }
