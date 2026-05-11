@@ -2,6 +2,8 @@
 
 Some Quotes that I like found from books, around the web and some of my own too :]
 
+> "Be true to what you desire. Let that become larger than the fear of rejection, than disappointment, than pain. What is it you really want?"
+
 > "Maybe your garden isn't growing because every time a flower grows, you cut it to prove to someone that you're a gardener"
 
 > "A wound will not heal if it is made the subject of experimentation of different ointments, a plant which is frequently moved never grows strong. Nothing is so useful that it can be of any service in the mere passing" - Seneca
