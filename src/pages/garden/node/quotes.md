@@ -29,3 +29,5 @@ Some Quotes that I like found from books, around the web and some of my own too 
 > "It ain't about how hard you hit. It's about how hard you can get hit and keep moving forward. How much you can take and keep moving forward. That's how winning is done!" - Rocky Balboa
 
 > “We are our own griefs. We are our own happinesses. We are our own remedies.” - Huseyn Raza
+
+> "An alcoholic won’t reward themselves with alcohol"
