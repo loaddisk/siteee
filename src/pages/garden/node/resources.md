@@ -14,7 +14,7 @@ Some of them very ambitious and some of them, very small. Small creates large. I
 
 ## Daylio ##
 
-[[IMG_5280.jpeg]]
+![[IMG_5280.jpeg]]
 
 > (My January Stats for example)
 
