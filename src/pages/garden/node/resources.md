@@ -34,4 +34,4 @@ Create something, anything, even when you think there is nothing, there is somet
 
 ## Whiteboard ##
 
-Another genius idea from C, a whiteboard hangs along side my bed with positive affirmations, reminders and photos of my loved ones.
+Another genius idea from C - a whiteboard - very simply, hangs along side my bed with positive affirmations, reminders and photos of my loved ones.
