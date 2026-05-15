@@ -1,5 +1,5 @@
 ---
-in: drafts
+in: Drafts
 ---
 ## Mia’s self help resources ##
 
