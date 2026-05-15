@@ -31,3 +31,7 @@ Cliche but just being around the people I love, even in silence, helps massively
 ## Having something to look forward to ##
 
 Create something, anything, even when you think there is nothing, there is something.
+
+## Whiteboard ##
+
+Another genius idea from C, a whiteboard hangs along side my bed with positive affirmations and reminders 
