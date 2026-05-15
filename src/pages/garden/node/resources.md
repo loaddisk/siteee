@@ -1,4 +1,6 @@
 ---
+title: Mia’s self help resources
+
 in: Drafts
 ---
 ## Mia’s self help resources ##
@@ -11,6 +13,6 @@ An idea created by my friend last year has really helped me and taught me a lot.
 ## Daylio ##
 A mood tracking app that I have been using all of this year 
 
-## Friends and family ##
+## Close Friends and family ##
 
-Cliche but just being around people 
+Cliche but just being around the people I love, even in silence, helps massively.   
