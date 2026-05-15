@@ -1,3 +1,7 @@
+---
+in:
+drafts
+---
 ## Mia’s self help resources ##
 
 (These are resources that generally help me a lot, these are made only for me but if you find some use outta them, that’s great too)
