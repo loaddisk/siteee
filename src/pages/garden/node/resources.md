@@ -9,6 +9,7 @@ in: Drafts
 ## Bingo ##
 
 ![[IMG_5281.jpeg]]
+
 > [Example]
 
 An idea created by my friend last year has really helped me and taught me a lot. I was going through a rough patch when C talked to me idea about putting your goals for the year on a bingo square. So we both laid out what we wanted to do and wrote them. 
