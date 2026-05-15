@@ -1,6 +1,5 @@
 ---
 title: Mia’s self help resources
-
 in: Drafts
 ---
 ## Mia’s self help resources ##
@@ -14,8 +13,12 @@ An idea created by my friend last year has really helped me and taught me a lot.
 Some of them very ambitious and some of them, very small. Small creates large. I have been creating a yearly bingo ever since (I have 80 this year). The goal isnt to be disappointed you didn't complete them all, but rather consistent efforts to try and try again. Thank you, C. 
 
 ## Daylio ##
-A mood and goal tracking app that I have been using all of this year. Daylio
-helps me stay focused 
+
+[[IMG_5280.jpeg]]
+
+> (My January Stats for example)
+
+Daylio is mood and goal tracking app that I have been using all of this year (i've been comitted to using it everyday). It helps me stay focused, keep track and keep up my routines. A lot of my bingo goals are as goals on daylio which create consistency and discipline. 
 
 ## Close Friends and family ##
 
