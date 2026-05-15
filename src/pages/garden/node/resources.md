@@ -32,6 +32,6 @@ Cliche but just being around the people I love, even in silence, helps massively
 
 Create something, anything, even when you think there is nothing, there is something.
 
-## Whiteboard ##
+## A whiteboard ##
 
 Another genius idea from C - a whiteboard - very simply, hangs along side my bed with positive affirmations, reminders and photos of my loved ones.
