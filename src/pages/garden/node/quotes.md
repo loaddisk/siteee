@@ -2,6 +2,8 @@
 
 Some Quotes that I like found from books, around the web and some of my own too :]
 
+> "Carpe Diem"
+
 > "Be true to what you desire. Let that become larger than the fear of rejection, than disappointment, than pain. What is it you really want?"
 
 > "Maybe your garden isn't growing because every time a flower grows, you cut it to prove to someone that you're a gardener"
