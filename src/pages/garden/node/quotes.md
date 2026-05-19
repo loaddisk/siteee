@@ -32,6 +32,8 @@ Some Quotes that I like found from books, around the web and some of my own too 
 
 > "We must constantly look at things in a different way"
 
+> "be the change you want to see"
+
 > “We are our own griefs. We are our own happinesses. We are our own remedies.” - Huseyn Raza
 
 > "An alcoholic won’t reward themselves with alcohol"
