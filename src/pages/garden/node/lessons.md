@@ -1,1 +1,0 @@
-Leasons I have Learnt and some have yet to learn:
