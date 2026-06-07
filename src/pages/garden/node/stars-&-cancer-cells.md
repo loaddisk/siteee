@@ -1,8 +1,7 @@
 ---
 tags:
 - thoughts
-in:
-thoughts
+in: thoughts
 ---
 
 ## Stars & Cancer Cells ##
