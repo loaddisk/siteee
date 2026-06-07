@@ -37,7 +37,7 @@ The stars burn. Cells divide. Bodies flourish and fail. Nature conducts its affa
 
 Yet there is something strangely liberating in this. If suffering is not a personal sentence, then neither is it a personal injustice. We are not singled out by fate. We are participants in the same conditions that govern everything that lives.
 
-Stars and cancer cells share a quality that unsettles us: neither asks permission. Both simply obey their nature.
+Stars and cancer cells share a quality that unsettles us: neither asks permission: both simply obey their nature.
 
 And perhaps wisdom begins when we learn to do the same, not by becoming indifferent, but by accepting that reality is under no obligation to conform to our hopes. Our task is not to demand a gentler universe, but to become equal to the one that already exists.
 
