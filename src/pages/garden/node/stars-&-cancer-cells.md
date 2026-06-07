@@ -4,7 +4,7 @@ tags:
 title: stars & cancer cells
 ---
 
-##Stars & Cancer Cells##
+## Stars & Cancer Cells ##
 07/06/2026
 
 The more one pays attention, the more everything funnels into a single word. Not how, not when, not even what - but, why? 
