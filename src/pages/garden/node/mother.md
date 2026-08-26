@@ -9,7 +9,7 @@ description: Learnings
 
 So, it’s been a few months! Sorry about the wait!!
 
-I’ve been taking some time to sit with and understand a lot of things — about myself, and about existence more generally. Some of those thoughts have found their way into the earlier months of the Thoughts Node, scattered here and there.
+I’ve been taking some time to sit with and understand a lot of things — about myself, and about existence more generally. Some of those thoughts have found their way into the earlier months of the [Thoughts] Node, scattered here and there.
 
 This year has brought a lot of change for me, along with quite a few new and unexpected realisations. Writing has always been the way I make sense of these things, so I’ve continued to write and work through them in a workbook I created for myself. It’s gradually become a little space for me to explore what I’m learning.
 
