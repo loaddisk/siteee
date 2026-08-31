@@ -1,5 +1,5 @@
 ---
-title: Where are the blogs?
+title: Where Are The Blogs?
 date: 2026-08-27
 in: blog
 state: evergreen 
