@@ -1,10 +1,10 @@
 ---
-title: Where is the blogs?
+title: Where are the blogs?
 date: 2026-08-27
 in: blog
 state: evergreen 
 is: learning and growing
-description: Learnings
+description: Learning
 ---
 
 So, it’s been a few months! Sorry about the wait!!
