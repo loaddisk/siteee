@@ -1,3 +1,12 @@
+---
+title: Superior
+date: 2026-09-20
+in: blog
+state: evergreen 
+is: not superior
+description: are we really superior?
+---
+
 We like to believe that we are exceptional. We call ourselves superior because we can think, as though thought were a rank granted to us above mosquitoes, ants, frogs, and the silent jellyfish. But what arrogance is this? We are not outside nature, nor are we exempt from its laws. We are nature, as surely as they are.
 
 What distinguishes us is not that we alone possess life, nor that we alone are moved by some sacred force. It is that our minds can gather and direct the energy that passes through us. Yet even this gift we have turned against ourselves. We have made thinking our occupation and distraction our refuge, until we scarcely know how to be still.
