@@ -1,7 +1,10 @@
 ---
-tags:
-- thoughts
-in: thoughts
+title: over-nutrition and malnourishment
+date: 2026-04-23
+in: blog
+state: evergreen 
+is: waving
+description:
 ---
 
 ## Overnutrition and Malnourishment ##
