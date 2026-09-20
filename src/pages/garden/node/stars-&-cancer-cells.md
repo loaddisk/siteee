@@ -4,7 +4,6 @@ date: 2026-04-23
 in: blog
 state: evergreen 
 is: both stars and cancer cells
-description:
 ---
 
 ---
