@@ -6,8 +6,6 @@ state: evergreen
 is: waving
 ---
 
-## Overnutrition and Malnourishment ##
-
 An integral part of what drives purpose and meaning is to be rewarded for our diligent efforts; a book newly bought, food taken for pleasure, the latest pair of shoes, the earliest flight to Spain.
 
 Yet herein lies the fault: we do not know how to manage such reward.
