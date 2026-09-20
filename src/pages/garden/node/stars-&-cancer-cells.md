@@ -1,15 +1,12 @@
 ---
 title: Stars and cancer cells
-date: 2026-05-23
+date: 2026-06-07
 in: blog
 state: evergreen 
 is: both stars and cancer cells
 ---
 
 ---
-
-## Stars & Cancer Cells ##
-07/06/2026
 
 The more one pays attention, the more everything funnels into a single word. Not how, not when, not even what - but, why? 
 
