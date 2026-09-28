@@ -1,0 +1,19 @@
+You suffer, not from what has passed, but from your refusal to permit it to pass. Yesterday has departed, yet you summon it daily before the tribunal of your mind and there you accuse yourself anew. You recall your errors as though remembrance could undo them and revisit your wounds as though pain, by being endured twice, might be made less foolish the second time. Tell me, what madness is this, that a man should become the gaoler of himself, and furnish his prison with the very things from which he ought to have escaped?
+
+The past has no authority save that which you grant it. It may instruct you, but it cannot govern you; it may reveal your folly, but it cannot compel you to remain a fool. A wound explains why a man fears the sword, but it does not command him to tremble before every shadow. An error is evidence of ignorance at the time it was committed, not proof of eternal unworthiness. For we are not condemned to remain what we once were, unless we ourselves pronounce the sentence and refuse to appeal it.
+
+Consider the ship that cuts through the sea. Behind it lies a long wake, the troubled water bearing witness to the passage of the vessel. Yet no sensible pilot mistakes this disturbance for the power that carries him forward. The wake follows; it does not direct. So it is with the life of human. Your former deeds are the disturbance left behind you. Your present judgment holds the rudder. Why, then, do you gaze so long upon the water behind you, while neglecting the course that lies before you?
+
+You cannot recall yesterday. The words once spoken cannot be withdrawn, the opportunities neglected cannot be summoned back, nor can the ignorant man of yesterday be furnished with the knowledge you possess today. Nature has permitted no such commerce between the past and the present. What has been belongs to necessity; what remains to you is the use you make of the hour at hand.
+
+Therefore, cease this unprofitable labour of punishing yourself for what you can no longer alter. You have erred; so have many. You have suffered; so has every man who has lived long enough to understand that fortune does not consult our wishes. The question is not whether you have fallen, but whether you intend to lie where you fell. For it is one thing to have been overcome by adversity and another to make a dwelling of the place where you were overcome.
+
+Be severe with your faults, but not unjust with yourself. Correct what can be corrected; accept what cannot. Let memory serve as a physician, not an executioner. The wise man does not deny his former errors, nor does he wear them as ornaments of misery. He examines them, extracts their lesson and dismisses them. For to remember an offence is useful; to perpetually renew its punishment is merely to commit another offence against oneself.
+
+You owe your former self neither blind defence nor endless condemnation, but understanding. That man acted with the judgment, knowledge and courage he then possessed. If you have since grown wiser, let your wisdom be proved by your conduct, not by the frequency with which you reproach the ignorance you have outgrown.
+
+For he who declares himself forever bound to his former nature has made a slave of memory and mistaken habit for destiny. No man becomes virtuous by lamenting the time when he was otherwise. The past is not redeemed by sorrow, but by the better use of the present.
+
+Sail onward, then. The wake will remain behind you, as it must, for every life leaves traces of its passage. Do not demand that the sea be undisturbed, nor that your journey leave no evidence of its difficulties. Look upon the water if you must, that you may understand the distance travelled; but keep your eyes upon the course ahead.
+
+For the past is the witness of your journey, not the master of your fate. And the man who has learned from yesterday, yet acts rightly today, has already begun to free himself from its dominion.
