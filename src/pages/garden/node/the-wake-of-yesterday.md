@@ -1,3 +1,10 @@
+---
+title: The wake of yesterday
+date: 2026-09-27
+in: blog
+state: evergreen 
+is: not the wake
+---
 You suffer, not from what has passed, but from your refusal to permit it to pass. Yesterday has departed, yet you summon it daily before the tribunal of your mind and there you accuse yourself anew. You recall your errors as though remembrance could undo them and revisit your wounds as though pain, by being endured twice, might be made less foolish the second time. Tell me, what madness is this, that a man should become the gaoler of himself, and furnish his prison with the very things from which he ought to have escaped?
 
 The past has no authority save that which you grant it. It may instruct you, but it cannot govern you; it may reveal your folly, but it cannot compel you to remain a fool. A wound explains why a man fears the sword, but it does not command him to tremble before every shadow. An error is evidence of ignorance at the time it was committed, not proof of eternal unworthiness. For we are not condemned to remain what we once were, unless we ourselves pronounce the sentence and refuse to appeal it.
