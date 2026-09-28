@@ -1,7 +1,21 @@
+---
+title: butterflies and moths
+date: 2026-09-28
+in: blog
+state: evergreen 
+is: a moth
+---
+
 People admire the butterfly for its colours, praising its beauty as though beauty were a virtue. They welcome it into their gardens, watch it dance in the sunlight and speak of it with tenderness. Yet the moth, born of the same earth and shaped by the same mysterious hand is met with disgust. Its wings are judged dull, its presence unwelcome, its life deemed lesser than.
+
 Such is the nature of society: it does not always honour what is good, but what is pleasing to the eye. It mistakes appearance for worth, popularity for virtue and acceptance for proof of value. Men are welcomed not always for their character, but for how well they fit the expectations of others. Those who shine are celebrated, while those who move quietly in the shadows are forgotten, ridiculed or cast aside.
+
 Yet tell me, what fault lies in the moth? Does it choose the colour of its wings? Did the butterfly earn its beauty through wisdom, discipline or merit? Neither chose its form, yet one is praised while the other is condemned.
+
 We must therefore be careful not to become servants to the judgments of the crowd. For the opinions of men are fickle and the standards by which they measure worth are often shallow. What is admired today may be despised tomorrow and what is rejected by the many may possess a value the many are too blind to recognise.
+
 Do not measure yourself by the kindness you receive from the world, for the world is not always just in what it loves. A moth does not become worthless because men prefer butterflies, just as a person does not become inferior or superior because society fails to see their beauty or sees it and more.
+
 The butterfly and the moth both have wings. Both belong to the same world. Both live their brief lives beneath the same sky.
+
 And perhaps the greatest tragedy is not that society favours the butterfly, but that the moth may one day come to despise itself for not being one.
