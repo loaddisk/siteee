@@ -1,1 +1,1 @@
-we're all fibers of the same string
+we are all fibers of the same string
