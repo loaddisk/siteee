@@ -6,8 +6,9 @@ is: fleeting
 description: love, loss, pain, happiness
 ---
 
-> Alexa, play It’s All About Transient Ideology by Slowwves.
+![[IMG_3071.jpeg]]
 
+> Alexa, play It’s All About Transient Ideology by Slowwves.
 
 It is all temporary.
 
