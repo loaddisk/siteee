@@ -17,7 +17,7 @@ The people we love. The places we call home. The things we possess. The ambition
 
 Even the sorrows that seem eternal will one day surrender to time.
 
-We spend so much of our existence trying to preserve what was never meant to remain. We seek permanence in people, certainty in circumstances, and security in a world whose very nature is change.
+We spend so much of our existence trying to preserve what was never meant to remain. We seek permanence in people, certainty in circumstances and security in a world whose very nature is change.
 
 And in doing so, we forget to live.
 
@@ -27,13 +27,13 @@ Yet consider this: would a sunset be as beautiful if it never ended? Would an em
 
 It is precisely because things must pass that they deserve our deepest attention.
 
-The passing of a moment does not diminish its worth. The falling of a leaf does not make its existence meaningless. Nor does the inevitable end of a life render the living of it insignificant.
+The passing of a moment does not diminish its worth. The falling of a leaf does not make its existence meaningless. Nor does the inevitable end of a life render the living of it insignificant (See more on this topic of insignificance and significance in my: "the butterfly and the moth" post :>)
 
 Look to the universe, and you will see a reflection of yourself.
 
 The stars are born, they burn, and eventually they fade. Galaxies collide, worlds are formed and destroyed, and even the heavens are subject to the same relentless law of change that governs our brief existence.
 
-We are not separate from this great unfolding.
+We are not separate from this great unfolding
 
 We are part of it.
 
