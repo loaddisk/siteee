@@ -27,7 +27,8 @@ Yet consider this: would a sunset be as beautiful if it never ended? Would an em
 
 It is precisely because things must pass that they deserve our deepest attention.
 
-The passing of a moment does not diminish its worth. The falling of a leaf does not make its existence meaningless. Nor does the inevitable end of a life render the living of it insignificant (See more on this topic of insignificance and significance in my: "the butterfly and the moth" post :>)
+The passing of a moment does not diminish its worth. The falling of a leaf does not make its existence meaningless. Nor does the inevitable end of a life render the living of it insignificant 
+> (Sidenote: See more on this topic of insignificance and significance in my: "the butterfly and the moth" post :>)
 
 Look to the universe, and you will see a reflection of yourself.
 
