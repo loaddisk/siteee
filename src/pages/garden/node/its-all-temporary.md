@@ -30,9 +30,9 @@ It is precisely because things must pass that they deserve our deepest attention
 The passing of a moment does not diminish its worth. The falling of a leaf does not make its existence meaningless. Nor does the inevitable end of a life render the living of it insignificant 
 > (Sidenote: See more on this topic of insignificance and significance in my: "the butterfly and the moth" post :>)
 
-Look to the universe, and you will see a reflection of yourself.
+Look to the universe and you will see a reflection of yourself.
 
-The stars are born, they burn, and eventually they fade. Galaxies collide, worlds are formed and destroyed, and even the heavens are subject to the same relentless law of change that governs our brief existence.
+The stars are born, they burn and eventually they fade. Galaxies collide, worlds are formed and destroyed and even the heavens are subject to the same relentless law of change that governs our brief existence.
 
 We are not separate from this great unfolding
 
