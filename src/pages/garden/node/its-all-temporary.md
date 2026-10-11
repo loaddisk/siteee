@@ -8,8 +8,6 @@ description: love, loss, pain, happiness
 
 > Alexa, play It’s All About Transient Ideology by Slowwves.
 
-![[IMG_3071.jpeg]]
-
 It is all temporary.
 
 All of this.
@@ -146,3 +144,5 @@ It is all we truly have.
 And it is all we truly are.
 
 And this moment is all we truly are.
+
+![[IMG_3071.jpeg]]
