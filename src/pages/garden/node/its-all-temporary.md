@@ -1,4 +1,10 @@
-
+---
+title: It is all temporary
+date: 2026-10-11
+in: blog 
+is: fleeting
+description: love, loss, pain, happiness
+---
 
 > Alexa, play It’s All About Transient Ideology by Slowwves.
 
