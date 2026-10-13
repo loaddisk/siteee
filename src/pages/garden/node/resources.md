@@ -15,7 +15,7 @@ Link: <code>⟨{{ 'https://youtube.com/@healthygamergg?si=toWF1yFP74gzOSKE' |> r
 
 ## Bingo ##
 
-![[IMG_5281.jpeg]]
+![[IMG_5281.png]]
 
 > [Example]
 
