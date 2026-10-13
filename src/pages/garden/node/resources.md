@@ -6,7 +6,11 @@ in: Drafts
 
 (These are resources that generally help me a lot, these are made only for me but if you find some use outta them, that’s great too. This list will also be likely to be added on to :])
 
-##HealthyGamerGG##
+## TheAttentiveMind YT ##
+
+Link: <code>⟨{{ 'https://youtube.com/@theattentivemind5992?si=MOZfIizGc7IR6tLa' |> rails(6) }}⟩</code>
+
+## HealthyGamerGG YT ##
 Link: <code>⟨{{ 'https://youtube.com/@healthygamergg?si=toWF1yFP74gzOSKE' |> rails(6) }}⟩</code>
 
 ## Bingo ##
