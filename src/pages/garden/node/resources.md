@@ -8,10 +8,10 @@ in: Drafts
 
 ## TheAttentiveMind YT ##
 
-Link: <code>⟨{{ 'https://youtube.com/@theattentivemind5992?si=MOZfIizGc7IR6tLa' |> rails(6) }}⟩</code>
+**Link**: <code>⟨[`TheAttentiveMind`](https://youtube.com/@theattentivemind5992?si=MOZfIizGc7IR6tLa)⟩</code>
 
 ## HealthyGamerGG YT ##
-Link: <code>⟨{{ 'https://youtube.com/@healthygamergg?si=toWF1yFP74gzOSKE' |> rails(6) }}⟩</code>
+**Link**: <code>⟨[`HealthyGamerGG`](https://youtube.com/@healthygamergg?si=toWF1yFP74gzOSKE)⟩</code>
 
 ## Bingo ##
 
