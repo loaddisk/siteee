@@ -15,6 +15,9 @@ A brilliant and my most favourite meditation channel
 ## HealthyGamerGG YT ##
 **Link**: <code>⟨[`HealthyGamerGG`](https://youtube.com/@healthygamergg?si=toWF1yFP74gzOSKE)⟩</code>
 
+## Atomic Habits - James Clear ## 
+![[IMG_3154.png]]
+
 ## Bingo ##
 
 ![[IMG_5281.png]]
