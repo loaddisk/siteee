@@ -10,6 +10,8 @@ in: Drafts
 
 **Link**: <code>⟨[`TheAttentiveMind`](https://youtube.com/@theattentivemind5992?si=MOZfIizGc7IR6tLa)⟩</code>
 
+A brilliant and my most favourite meditation channel
+
 ## HealthyGamerGG YT ##
 **Link**: <code>⟨[`HealthyGamerGG`](https://youtube.com/@healthygamergg?si=toWF1yFP74gzOSKE)⟩</code>
 
