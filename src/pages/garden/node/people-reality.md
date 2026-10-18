@@ -13,7 +13,7 @@ People >< Reality
 ## I. The Universe That Questions Itself ##
 
 ![[IMG_3352.jpeg]]
-> The Cosmic Question Mark
+> ‘The Cosmic Question Mark’ captured by James Clear
 
 Human beings have spent centuries looking toward the heavens, asking what lies beyond the stars, what preceded the observable universe, whether time had a beginning, and why anything exists at all.
 
@@ -167,8 +167,7 @@ And if it can, what kind of explanation would finally satisfy us?
 ## III. The Observer and the Identity ##
 
 ![[IMG_3355.png]]
-
-Arcane, Season 2, Episode 9
+> A screencap from Arcane, Season 2, Episode 9
 
 Before you could describe yourself, before you understood your name, before you possessed an autobiographical history you could recount, the foundations of your mental life were developing.
 
