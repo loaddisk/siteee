@@ -154,7 +154,7 @@ The story of who we are is not necessarily identical to the fact that we experie
 
 And perhaps much of human suffering arises when we mistake that story for the entirety of our existence.
 
-IV. The Illusion of the Permanent Self
+## IV. The Illusion of the Permanent Self ##
 
 ![[IMG_3358.jpeg]]
 > Screecap of The End Of Envanegelion
