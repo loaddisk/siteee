@@ -1,6 +1,7 @@
 ## I. The Universe That Questions Itself ##
 
 ![[IMG_3352.jpeg]]
+> 'The Cosmic Question Mark' Captured by James Clear 
 
 Man spends his life looking toward the heavens, asking what lies beyond the stars, what existed before time, and what purpose there might be to existence.
 
