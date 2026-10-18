@@ -64,7 +64,7 @@ Could consciousness be understood through a similar analogy?
 
 Could the brain be not merely the creator of awareness, but an instrument through which awareness takes an individual form? Its medium?
 
-Perhaps consciousness is something fundamental and the human brain gives it structure, limitation, memory and perspective.
+Perhaps consciousness is something fundamental and the human brain gives it structure, limitation, memory and perspective?
 
 Perhaps what we call I is a particular expression of something much greater.
 
