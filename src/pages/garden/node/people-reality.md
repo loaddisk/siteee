@@ -13,7 +13,7 @@ tags:
 ![[IMG_3352.jpeg]]
 > 'The Cosmic Question Mark' Captured by James Clear 
 
-Man spends his life looking toward the heavens, asking what lies beyond the stars, what existed before time, and what purpose there might be to existence.
+Man spends his life looking toward the heavens asking: What lies beyond the stars? What existed before time? And, what purpose there might be to existence?
 
 Yet in his search, he overlooks a remarkable truth.
 
@@ -21,7 +21,7 @@ He is not separate from the universe he seeks to understand.
 
 He is made from it.
 
-The elements within his body were forged through processes older than his world. The atoms that form his mind belong to the same physical reality as the stars, the oceans, and the distant galaxies.
+The elements within his body were forged through processes older than his world; the atoms that form his mind belong to the same physical reality as the stars, the oceans and the distant galaxies.
 
 And yet, through some extraordinary arrangement of matter, the universe has produced something capable of contemplating its own existence.
 
@@ -31,7 +31,9 @@ The oceans move, but do not question their movement.
 
 The mountains endure, but do not contemplate the passing of centuries.
 
-Yet man looks upon these things and asks why.
+Yet man looks upon these things and asks:
+
+# why? 
 
 We are the universe, briefly arranged into a form capable of questioning the universe itself.
 
@@ -47,11 +49,11 @@ And perhaps our greatest error is believing ourselves to be observers standing o
 
 Consider the radio.
 
-An instrument of wires, circuits, and electrical components, seemingly silent until it receives a signal.
+An instrument of wires, circuits and electrical components, seemingly silent until it receives a signal.
 
 The music does not originate within the speaker. The speaker transforms a received signal into something audible.
 
-Destroy the radio, and the music from that particular instrument ceases.
+Destroy the radio and the music from that particular instrument ceases.
 
 Yet the broadcast may continue.
 
