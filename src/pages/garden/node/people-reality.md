@@ -33,7 +33,7 @@ The mountains endure, but do not contemplate the passing of centuries.
 
 Yet man looks upon these things and asks:
 
-# why? 
+Why? 
 
 We are the universe, briefly arranged into a form capable of questioning the universe itself.
 
