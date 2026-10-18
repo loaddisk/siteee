@@ -1,3 +1,13 @@
+---
+title: People >< Reality
+date: 2026-10-18
+in: blog 
+is: the universe and so are you
+description: We are the universe?
+tags:
+- thoughts
+---
+
 ## I. The Universe That Questions Itself ##
 
 ![[IMG_3352.jpeg]]
