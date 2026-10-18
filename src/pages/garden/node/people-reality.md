@@ -204,11 +204,9 @@ Continuity does not require absolute permanence.
 
 And change does not necessarily destroy identity.
 
-Here the Stoics offer a valuable lesson.
-
 We suffer when we demand that changing things remain unchanged.
 
-We attach ourselves to reputation, appearance, status, and the approval of others, treating temporary circumstances as though they were the foundations of our being.
+We attach ourselves to reputation, appearance, status and the approval of others, treating temporary circumstances as though they were the foundations of our being.
 
 Yet the wise person recognizes that character is not a possession secured once and forever.
 
@@ -216,11 +214,13 @@ It is something exercised through judgment and action.
 
 Perhaps the purpose of self-examination is not to discover an immortal personality hidden beneath experience.
 
-Perhaps it is to recognize how much of what we defend as ourselves is temporary.
+Perhaps it is to recognise how much of what we defend as ourselves is temporary.
 
 And then to ask what deserves our loyalty while we are here.
 
 ## V. The Wave and the Ocean ##
+
+![[IMG_3378.jpeg]]
 
 Observe a wave upon the ocean.
 
@@ -244,9 +244,9 @@ We emerge from the processes of nature.
 
 We develop a distinct form.
 
-We acquire memories, consciousness, and identity.
+We acquire memories, consciousness and identity.
 
-We experience joy, fear, love, suffering, and wonder.
+We experience joy, fear, love, suffering and wonder.
 
 And eventually the arrangement dissolves.
 
@@ -298,7 +298,7 @@ But that second possibility raises questions rather than resolving them.
 
 What divides one center from another?
 
-Why should one arrangement of matter possess this perspective, and another arrangement possess that perspective?
+Why should one arrangement of matter possess this perspective and another arrangement possess that perspective?
 
 And how could a universal consciousness produce genuinely private experiences?
 
@@ -394,7 +394,7 @@ The fact that we arise from nature does not make our decisions irrelevant.
 
 Our decisions are themselves events within nature.
 
-Our reasoning, compassion, discipline, and moral judgments are among the capacities through which human life unfolds.
+Our reasoning, compassion, discipline and moral judgments are among the capacities through which human life unfolds.
 
 The man does not need to escape reality to live well.
 
@@ -436,7 +436,7 @@ At first, they appear to be separate categories.
 
 There is the world, and there are those who experience it.
 
-There is the observer, and there is the observed.
+There is the observer and there is the observed.
 
 Yet the separation becomes less certain under examination.
 
@@ -462,7 +462,7 @@ Perhaps it is how the universe came to contain beings capable of imagining thems
 
 Identity creates a boundary.
 
-It allows us to distinguish ourselves from others, preserve memories, make decisions, and navigate the world.
+It allows us to distinguish ourselves from others, preserve memories, make decisions and navigate the world.
 
 Without some form of self-representation, much of human life would become impossible.
 
@@ -520,7 +520,7 @@ We may never resolve every question.
 
 But perhaps wisdom does not require that we do.
 
-Perhaps wisdom begins when we recognize the difference between what we know, what we suspect, and what we merely hope to be true.
+Perhaps wisdom begins when we recognize the difference between what we know, what we suspect and what we merely hope to be true.
 
 We know that we belong to the universe.
 
@@ -552,7 +552,7 @@ A conscious perspective upon an immeasurable whole.
 
 A question that the universe, through you, has become capable of asking.
 
-And whether consciousness is created by the brain or proves to be something more fundamental, one truth remains.
+And whether consciousness is created by the brain or proves to be something more fundamental: one truth remains.
 
 For this brief moment, the universe contains something that knows it exists, knows that it will change, and can choose how to respond to that knowledge.
 
