@@ -8,8 +8,6 @@ tags:
 - thoughts
 ---
 
-People >< Reality
-
 ## I. The Universe That Questions Itself ##
 
 ![[IMG_3352.jpeg]]
