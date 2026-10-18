@@ -75,6 +75,9 @@ And in that uncertainty lies one of humanity’s deepest mysteries.
 
 ## III. The Observer and the Identity ##
 
+![[IMG_3355.png]]
+> Screencap of Arcane, Season 2, Episode 9
+
 Before you understood your name, before you developed opinions, before you possessed a history you could recount, the foundations of experience were already forming.
 
 You were not born with the identity you now defend.
@@ -142,6 +145,9 @@ The story of who we are is not necessarily identical to the fact that we experie
 And perhaps much of human suffering arises when we mistake that story for the entirety of our existence.
 
 IV. The Illusion of the Permanent Self
+
+![[IMG_3358.jpeg]]
+> Screecap of The End Of Envanegelion
 
 Man wishes to be something fixed.
 
