@@ -62,9 +62,9 @@ Yet the broadcast may continue.
 
 Could consciousness be understood through a similar analogy?
 
-Could the brain be not merely the creator of awareness, but an instrument through which awareness takes an individual form?
+Could the brain be not merely the creator of awareness, but an instrument through which awareness takes an individual form? Its medium?
 
-Perhaps consciousness is something fundamental, and the human brain gives it structure, limitation, memory, and perspective.
+Perhaps consciousness is something fundamental and the human brain gives it structure, limitation, memory and perspective.
 
 Perhaps what we call I is a particular expression of something much greater.
 
@@ -72,7 +72,7 @@ But wisdom requires restraint.
 
 An analogy is not evidence. We have not established that consciousness exists independently of the brain, nor that the brain receives awareness from some universal field.
 
-Indeed, everything we observe about injury, sleep, anaesthesia, and neurological disease demonstrates how profoundly the brain shapes conscious experience.
+Indeed, everything we observe about injury, sleep, anaesthesia and neurological disease demonstrates how profoundly the brain shapes conscious experience.
 
 The radio remains a philosophical possibility, not a scientific conclusion.
 
