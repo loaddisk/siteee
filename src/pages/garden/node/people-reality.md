@@ -13,15 +13,15 @@ tags:
 ![[IMG_3352.jpeg]]
 > 'The Cosmic Question Mark' Captured by James Clear 
 
-Man spends his life looking toward the heavens asking: What lies beyond the stars? What existed before time? And, what purpose there might be to existence?
+People spends their lives looking toward the heavens asking: What lies beyond the stars? What existed before time? And, what purpose there might be to existence?
 
-Yet in his search, he overlooks a remarkable truth.
+Yet in our search, we overlooks a remarkable truth.
 
-He is not separate from the universe he seeks to understand.
+We are not a separate from the universe we seek to understand.
 
-He is made from it.
+We are  made from it.
 
-The elements within his body were forged through processes older than his world; the atoms that form his mind belong to the same physical reality as the stars, the oceans and the distant galaxies.
+The elements within our body were forged through processes older than our world; the atoms that form our mind belong to the same physical reality as the stars, the oceans and the distant galaxies.
 
 And yet, through some extraordinary arrangement of matter, the universe has produced something capable of contemplating its own existence.
 
@@ -31,7 +31,7 @@ The oceans move, but do not question their movement.
 
 The mountains endure, but do not contemplate the passing of centuries.
 
-Yet man looks upon these things and asks:
+Yet we looks upon these things and asks:
 
 Why? 
 
