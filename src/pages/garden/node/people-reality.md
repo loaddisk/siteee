@@ -45,7 +45,8 @@ And perhaps our greatest error is believing ourselves to be observers standing o
 
 ## II. The Frequency of Consciousness ##
 
-![[IMG_3353.gif]]
+![[IMG_3368.jpeg]]
+> A teardown of a XHDATA D-808
 
 Consider the radio.
 
@@ -56,6 +57,8 @@ The music does not originate within the speaker. The speaker transforms a receiv
 Destroy the radio and the music from that particular instrument ceases.
 
 Yet the broadcast may continue.
+
+![[IMG_3353.gif]]
 
 Could consciousness be understood through a similar analogy?
 
