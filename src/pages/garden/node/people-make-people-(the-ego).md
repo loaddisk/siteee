@@ -8,6 +8,8 @@ tags:
 - thoughts
 ---
 
+[[!IMG_0160.png]]
+
 You’ve probably heard of the flea effect: a classic illustration of why animals (and people) stop trying to escape a bad situation (which may not be realised), even after the barrier holding them back is completely gone. In psychology, the closest parallel is learned helplessness.
 
 Fleas can easily leap a hundred times their own height. Place them in an open jar, and they spring straight to freedom. Place a lid upon that jar, and they will jump, strike the ‘ceiling’ and fall back down. After a few days, remove the lid and they still will not leap out. They have trained their own nature to stop below an invisible line, though nothing remains to stop them. 
@@ -20,7 +22,7 @@ I have spent much of this past year, and the one preceding it, discovering that 
 
 Every experience, every judgement, every expectation, every disappointment had contributed another grain to the creation of the glass. Some grains were built by my upbringing, others by the opinions of those around me and others learned reactions and actions. Eventually, the construction became so familiar that I ceased to recognise it as a construction at all.
 
-![[IMG]]
+![[IMG_0161.jpeg]]
 
 (A close up of a grain of sand)
 
@@ -28,6 +30,7 @@ I looked in the mirror and called the result myself.
 
 I learned that this jar isn’t permanent, this jar can be modified and designed to your liking. Doing things without reason and never asking the questions that hit the gear pedals: “Why?”, “Why do I?” “why did I?” and “why do I keep doing?”
 
+![[IMG_0157.png]]
 
 It was these very questions that started speaking to me, that started to keep me awake when I’d rather be asleep.
 
