@@ -29,6 +29,8 @@ I looked in the mirror and called the result myself.
 
 Doing things without reason and never asking the questions that hit the gear pedals: “Why?”, “Why do I?” “why did I?” and “why do I keep doing?”
 
+Until I started to.
+
 ![[IMG_0157.png]]
 
 It was these very questions that started speaking to me, that started to keep me awake when I’d rather be asleep.
