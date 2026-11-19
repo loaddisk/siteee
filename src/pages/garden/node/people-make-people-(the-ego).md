@@ -1,7 +1,12 @@
-
-People make people (the ego)
-
-
+---
+title: People make people (the ego)
+date: 2026-11-17
+in: blog 
+is: in a jar
+description: The flea effect
+tags:
+- thoughts
+---
 
 You’ve probably heard of the flea effect: a classic illustration of why animals (and people) stop trying to escape a bad situation (which may not be realised), even after the barrier holding them back is completely gone. In psychology, the closest parallel is learned helplessness.
 
@@ -15,13 +20,13 @@ I have spent much of this past year, and the one preceding it, discovering that 
 
 Every experience, every judgement, every expectation, every disappointment had contributed another grain to the creation of the glass. Some grains were built by my upbringing, others by the opinions of those around me and others learned reactions and actions. Eventually, the construction became so familiar that I ceased to recognise it as a construction at all.
 
+![[IMG]]
 
 (A close up of a grain of sand)
 
 I looked in the mirror and called the result myself.
 
 I learned that this jar isn’t permanent, this jar can be modified and designed to your liking. Doing things without reason and never asking the questions that hit the gear pedals: “Why?”, “Why do I?” “why did I?” and “why do I keep doing?”
-
 
 
 It was these very questions that started speaking to me, that started to keep me awake when I’d rather be asleep.
