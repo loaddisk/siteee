@@ -76,6 +76,8 @@ A thought may present itself, but it need not become our belief. An emotion may 
 
 The mind is much like a radio. We may not always choose the first sound that enters it, but we can choose which station we continue to listen to. There is no reason to remain tuned to static merely because it was the first thing we heard.
 
+[[!IMG_3353.gif]]
+
 Our habits have taught us certain equations. We have learned that two plus two must equal four, and that when a particular circumstance arises, a particular reaction must follow. But many of these equations are not laws of nature. They are merely familiar conclusions, repeated so often that we have stopped examining them.
 
 And what has been learned may be unlearned.
@@ -97,7 +99,7 @@ But why should we regard a failure as the final verdict? To stumble whilst learn
 We must extend to the mind the same patience we would extend to the body. Discipline does not demand perfection; it demands persistence consistence.
 
 The objective is not to become a person who never experiences irritation, insecurity, jealousy or defensiveness. This would be asking for a human to cease being human. 
-The object is to become a person who can recognise these things without becoming their servant.
+The objective is to become a person who can recognise these things without becoming their servant.
 
 For the greatest victory is not to command the world, nor to ensure that others behave according to our expectations, it is to cease being governed by every impression the world places before us, by every thought that comes to mind.
 
