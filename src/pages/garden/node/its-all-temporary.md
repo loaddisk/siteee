@@ -22,7 +22,9 @@ And in doing so, we forget to live.
 
 We suffer not because life is fleeting, but because we demand permanence from a world that promises none.
 
-Yet consider this: would a sunset be as beautiful if it never ended? Would an embrace carry the same tenderness if we believed there would always be another?
+But:
+Would a sunset be as beautiful if it never ended? 
+Would an embrace carry the same tenderness if we believed there would always be another?
 
 It is precisely because things must pass that they deserve our deepest attention.
 
