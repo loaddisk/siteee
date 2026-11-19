@@ -3,7 +3,7 @@ title: People make people (the ego)
 date: 2026-11-17
 in: blog 
 is: in a jar
-description: The flea effect
+description: How conditioning, inherited beliefs and unconscious reactions shape the person we believe ourselves to be.
 tags:
 - thoughts
 ---
