@@ -23,7 +23,7 @@ I have spent much of this past year, and the one preceding it, discovering that 
 Every experience, every judgement, every expectation, every disappointment had contributed another grain to the creation of the glass. Some grains were built by my upbringing, others by the opinions of those around me and others learned reactions and actions. Eventually, the construction became so familiar that I ceased to recognise it as a construction at all.
 
 ![[IMG_0161.jpeg]]
-|| [A close up of a grain of sand)
+> (A close up of a grain of sand)
 
 I looked in the mirror and called the result myself.
 
