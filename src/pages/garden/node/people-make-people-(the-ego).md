@@ -8,7 +8,7 @@ tags:
 - thoughts
 ---
 
-[[!IMG_0160.png]]
+![[IMG_0160.png]]
 
 You’ve probably heard of the flea effect: a classic illustration of why animals (and people) stop trying to escape a bad situation (which may not be realised), even after the barrier holding them back is completely gone. In psychology, the closest parallel is learned helplessness.
 
@@ -76,7 +76,7 @@ A thought may present itself, but it need not become our belief. An emotion may 
 
 The mind is much like a radio. We may not always choose the first sound that enters it, but we can choose which station we continue to listen to. There is no reason to remain tuned to static merely because it was the first thing we heard.
 
-[[!IMG_3353.gif]]
+![[IMG_3353.gif]]
 
 Our habits have taught us certain equations. We have learned that two plus two must equal four, and that when a particular circumstance arises, a particular reaction must follow. But many of these equations are not laws of nature. They are merely familiar conclusions, repeated so often that we have stopped examining them.
 
