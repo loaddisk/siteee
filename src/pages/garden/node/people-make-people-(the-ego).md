@@ -16,6 +16,18 @@ Fleas can easily leap a hundred times their own height. Place them in an open ja
 
 Worse still, if they breed inside that open jar, their young watch them jump only halfway up and imitate their restraint. Though the lid is long gone and the young have never struck a ceiling, they remain prisoners - bound entirely by the limits they learned from the crowd around them.
 
+There is another experiment worth considering here: the Rat Park experiment, conducted by psychologist Bruce Alexander and his colleagues in the late 1970s.
+
+![[IMG_0247]]
+
+In the experiment, rats were given access to morphine-laced water. Some were kept in isolated cages, whilst others were placed in what became known as Rat Park: a spacious, enriched environment where they could interact, play and socialise with other rats. The researchers observed that the isolated rats tended to consume considerably more of the morphine solution than those living in the enriched environment.
+
+The findings challenged a rather simplistic understanding of addiction. Perhaps behaviour cannot always be understood by examining the individual alone; perhaps we must also examine the environment in which that individual exists.
+
+Consider the implications. We are often quick to judge people by what they do, without considering the circumstances that may have helped shape them. We observe the addiction, the aggression, the insecurity, the resentment, and condemn the individual, rarely stopping to examine the conditions in which these behaviours have taken root.
+
+We are quick to examine the person, but slow to examine the world that helped make them.
+
 And what, you may ask, has this to do with the ego?
 
 I have spent much of this past year, and the one preceding it, discovering that I, too, have been living in a jar. The more uncomfortable discovery was that I had mistaken its walls for the boundaries of my own nature. 
