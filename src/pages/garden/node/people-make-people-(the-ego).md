@@ -22,7 +22,7 @@ There is another experiment worth considering here: the Rat Park experiment, con
 
 In the experiment, rats were given access to morphine-laced water. Some were kept in isolated cages, whilst others were placed in what became known as Rat Park: a spacious, enriched environment where they could interact, play and socialise with other rats. The researchers observed that the isolated rats tended to consume considerably more of the morphine solution than those living in the enriched environment.
 
-The findings challenged a rather simplistic understanding of addiction. Perhaps behaviour cannot always be understood by examining the individual alone; perhaps we must also examine the environment in which that individual exists.
+The findings challenged a rather simplistic understanding of addiction (especially for 1970s). Perhaps behaviour cannot always be understood by examining the individual alone; perhaps we must also examine the environment in which that individual exists.
 
 Consider the implications. We are often quick to judge people by what they do, without considering the circumstances that may have helped shape them. We observe the addiction, the aggression, the insecurity, the resentment, and condemn the individual, rarely stopping to examine the conditions in which these behaviours have taken root.
 
