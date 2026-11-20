@@ -2,13 +2,13 @@
 title: People make people (the ego)
 date: 2026-11-17
 in: blog 
-is: in a jar
+is: in a jar but knows it
 description: How conditioning, inherited beliefs and unconscious reactions shape the person we believe ourselves to be.
 tags:
 - thoughts
 ---
 
-![[IMG_0152.png]]
+![[IMG_0258.jpeg]]
 
 You’ve probably heard of the flea effect: a classic illustration of why animals (and people) stop trying to escape a bad situation (which may not be realised), even after the barrier holding them back is completely gone. In psychology, the closest parallel is learned helplessness.
 
