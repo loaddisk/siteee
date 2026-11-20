@@ -18,7 +18,7 @@ Worse still, if they breed inside that open jar, their young watch them jump onl
 
 There is another experiment worth considering here: the Rat Park experiment, conducted by psychologist Bruce Alexander and his colleagues in the late 1970s.
 
-![[IMG_0247]]
+![[IMG_0247.jpeg]]
 
 In the experiment, rats were given access to morphine-laced water. Some were kept in isolated cages, whilst others were placed in what became known as Rat Park: a spacious, enriched environment where they could interact, play and socialise with other rats. The researchers observed that the isolated rats tended to consume considerably more of the morphine solution than those living in the enriched environment.
 
