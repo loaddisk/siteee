@@ -137,7 +137,7 @@ export const svg = async ({ title, date, desc, color = "#3C898B" }) => {
 										style: {
 											color,
 										},
-										children: "Evan Boehs",
+										children: "Mia R",
 									},
 								},
 							],
